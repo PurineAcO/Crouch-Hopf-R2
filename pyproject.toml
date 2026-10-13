@@ -1,0 +1,10 @@
+[project]
+name = "crouch-hopf-r2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "h5py>=3.16.0",
+    "numpy>=2.5.4",
+]
